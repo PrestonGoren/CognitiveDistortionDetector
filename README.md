@@ -1,1 +1,1 @@
-# CognitiveDistortionDetector
+# Cognitive Distortion Detector
